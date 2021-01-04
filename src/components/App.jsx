@@ -3,7 +3,7 @@ import {Some} from "./Some.jsx"
 
 export const App = (props) => {
   return (<>
-  <Some/>
+  <Some IronMan = {<h1>Robert Downey Jr</h1>}/>
    </>)
   
 };
